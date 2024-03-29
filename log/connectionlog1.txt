@@ -355,3 +355,1197 @@ Successful in finding some peers
 Currently connected to 0 out of 5 [for service myService ]
 TOTAL CONNECTIONS :  24
 Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  18
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  41
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  62
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  52
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  43
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  49
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  44
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  48
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  45
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  40
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  34
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  32
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  32
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  32
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  17
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  42
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  46
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  52
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  64
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  73
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  79
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  81
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  81
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  146
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  136
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  138
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  151
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  155
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  153
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  143
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  141
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  140
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  128
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  117
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  109
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  91
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  81
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  78
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  75
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  50
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  50
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  50
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  42
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  34
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  33
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  33
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  35
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  35
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  36
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  34
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  35
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  35
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  35
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  33
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  31
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  30
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  22
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  21
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  21
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  28
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  29
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  22
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  22
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  17
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  22
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  22
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  18
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  19
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  16
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  20
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  23
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  24
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  26
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  27
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  25
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  42
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  67
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  71
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  102
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  102
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  102
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  101
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  102
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  100
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  99
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  99
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  116
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  115
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  111
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  109
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  124
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  126
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  124
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  122
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  139
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  142
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  149
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  166
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  166
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  163
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  154
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  138
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  132
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  131
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  136
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  135
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  141
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  130
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  120
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  117
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  116
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  121
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  119
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  105
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  101
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  99
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  95
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  91
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  83
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  74
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  80
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  76
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  72
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  68
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  66
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  59
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  59
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  61
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  61
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  59
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  11
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  70
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  66
+Successful in finding some peers
+Currently connected to 0 out of 5 [for service myService ]
+TOTAL CONNECTIONS :  63
+Successful in finding some peers
