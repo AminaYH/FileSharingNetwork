@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	plog "pubsubfilesharing/fileshare"
+	plog "github.com/Mina218/FileSharingNetwork/fileshare"
 
 	dht "github.com/libp2p/go-libp2p-kad-dht"
 	"github.com/libp2p/go-libp2p/core/host"
@@ -18,7 +18,7 @@ func DiscoverPeers(ctx context.Context, host host.Host, service string, kad_dht 
 	constat := plog.OpenConnectionStatusLog()
 	routingDiscovery := drouting.NewRoutingDiscovery(kad_dht)
 	dutil.Advertise(ctx, routingDiscovery, service)
-	fmt.Println("Successfull in advertising service")
+	fmt.Println("Successful in advertising service")
 	connectedPeers := []peer.AddrInfo{}
 	isAlreadyConnected := false
 	for len(connectedPeers) < 20 {
@@ -28,7 +28,7 @@ func DiscoverPeers(ctx context.Context, host host.Host, service string, kad_dht 
 		if err != nil {
 			fmt.Println("Error while finding some peers for service :", service)
 		} else {
-			fmt.Fprintln(constat, "Successfull in finding some peers")
+			fmt.Fprintln(constat, "Successful in finding some peers")
 		}
 		for peerAddr := range peerChannel {
 
@@ -51,7 +51,8 @@ func DiscoverPeers(ctx context.Context, host host.Host, service string, kad_dht 
 			if err != nil {
 				fmt.Fprintln(peerlog, "Error while connecting to peer ", peerAddr.ID)
 			} else {
-				fmt.Println("Successfull in connecting to peer :", peerAddr.ID.Pretty()[len(peerAddr.ID.Pretty())-6:len(peerAddr.ID.Pretty())])
+				peerIDStr := peerAddr.ID.String()
+				fmt.Println("Successful in connecting to peer :", peerIDStr[len(peerIDStr)-6:])
 				connectedPeers = append(connectedPeers, peerAddr)
 				fmt.Println("Currently connected to", len(connectedPeers), "out of 5 [for service", service, "]")
 			}

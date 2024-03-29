@@ -19,11 +19,11 @@ func GenerateKey() crypto.PrivKey {
 	return privkey
 }
 
-// func GetID() peer.ID {
-// 	pk := generateID()
-// 	peerId, err := peer.IDFromPrivateKey(pk)
-// 	if err != nil {
-// 		fmt.Println("Error while creating peerid from public key")
-// 	}
-// 	return peerId
-// }
+//func GetID() peer.ID {
+//	pk := generateID()
+//	peerId, err := peer.IDFromPrivateKey(pk)
+//	if err != nil {
+//		fmt.Println("Error while creating peerid from public key")
+//	}
+//	return peerId
+//}
