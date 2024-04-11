@@ -33,6 +33,7 @@ func DiscoverPeers(ctx context.Context, host host.Host, service string, kad_dht 
 		for peerAddr := range peerChannel {
 
 			if peerAddr.ID == host.ID() {
+				fmt.Fprintln(constat, "yaaa lahwiiiiii")
 				continue
 			}
 			for _, connPeers := range connectedPeers {
